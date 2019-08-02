@@ -1,0 +1,3 @@
+function mash() {
+    return mash;
+}
